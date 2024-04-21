@@ -1,5 +1,6 @@
-### Hi there 👋 My Name is Krupa Dulobo
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 
+### Hi there 👋 My Name is Krupa Dulobo
 <!--
 **Thisaintkrupaa/Thisaintkrupaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -12,7 +13,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: Im quiet lazy and i love to sleep
 -->
 
 <h3 align="left">Connect with me:</h3>
