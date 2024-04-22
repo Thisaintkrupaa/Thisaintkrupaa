@@ -3,13 +3,14 @@
 
 
 <h3 align="center">Law Graduate By Education. A Software Developer By Passion </h3>
+<img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" width=400 alt="Github dashboard gif" align="right">
+
 
 - 🌍 I'm based in London, United Kingdom
 - 🔭 I’m currently working on something cool
 - 💬 Ask me about anything just not maths😆
 - ⚡ Fun fact: Im quiet lazy and i love to sleep
 
-<img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" width=400 alt="Github dashboard gif" align="right">
 
 <!--
 **Thisaintkrupaa/Thisaintkrupaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
