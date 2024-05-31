@@ -37,8 +37,9 @@ Here are some ideas to get you started:
 ### Language stats:
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thisaintkrupaa&show_icons=true&locale=en&layout=compact&theme=tokyonight"alt="thisaintkrupaa" /></p><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thisaintkrupaa&show_icons=true&locale=en&theme=tokyonight" alt="thisaintkrupaa" /></p>
+### Streaks and Contribution:
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thisaintkrupaa&" alt="thisaintkrupaa" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thisaintkrupaa&theme=tokyonight" alt="thisaintkrupaa" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
