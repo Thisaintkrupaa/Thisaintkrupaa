@@ -6,6 +6,7 @@
 
 <!-- <img src="https://media.giphy.com/media/11ZSwQNWba4YF2/giphy.gif" align="right" width="200px" height="20%" />
  -->
+ 
 <h3 align="center">Law Graduate By Education. A Software Developer By Passion </h3>
 <img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" width=400 alt="Github dashboard gif" align="right">
 
