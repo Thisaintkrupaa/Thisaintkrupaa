@@ -3,7 +3,6 @@
 
 ---
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thisaintkrupaa&label=Profile%20views&color=0e75b6&style=flat" alt="thisaintkrupaa" /> </p>
  
 <h3 align="center">Law Graduate By Education. A Software Developer By Passion </h3>
@@ -41,11 +40,11 @@ Here are some ideas to get you started:
 ---
 ### Language stats:
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thisaintkrupaa&show_icons=true&locale=en&layout=compact&theme=tokyonight"alt="thisaintkrupaa" /></p><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thisaintkrupaa&show_icons=true&locale=en&theme=tokyonight" alt="thisaintkrupaa" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thisaintkrupaa&show_icons=true&locale=en&layout=compact&theme=dracula"alt="thisaintkrupaa" /></p><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thisaintkrupaa&show_icons=true&locale=en&theme=dracula" alt="thisaintkrupaa" /></p>
 
 ### Streaks and Contribution:
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thisaintkrupaa&theme=tokyonight" alt="thisaintkrupaa" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thisaintkrupaa&theme=dracula" alt="thisaintkrupaa" /></p>
 
 ---
 
@@ -53,3 +52,9 @@ Here are some ideas to get you started:
 <p align="left">
 <a href="https://www.linkedin.com/in/krupadulobo12/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/krupadulobo12/" height="30" width="40" /></a>
 </p>
+
+---
+
+
+ ### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
