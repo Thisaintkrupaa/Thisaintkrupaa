@@ -3,8 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thisaintkrupaa&label=Profile%20views&color=0e75b6&style=flat" alt="thisaintkrupaa" /> </p>
 
-<!-- <img src="https://media.giphy.com/media/11ZSwQNWba4YF2/giphy.gif" align="right" width="200px" height="20%" />
- -->
+<!-- <img src="https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif" align="right"  width="100%"/> -->
+<img src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" align="right"  width="40%"/>
 
 <!-- <img src="https://media.giphy.com/media/11ZSwQNWba4YF2/giphy.gif" align="right" width="200px" height="20%" />
  -->
