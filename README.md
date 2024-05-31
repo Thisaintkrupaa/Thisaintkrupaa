@@ -2,10 +2,6 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thisaintkrupaa&label=Profile%20views&color=0e75b6&style=flat" alt="thisaintkrupaa" /> </p>
-
-<!-- <img src="https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif" align="right"  width="100%"/> -->
-<img src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" align="right"  width="40%"/>
-
  
 <h3 align="center">Law Graduate By Education. A Software Developer By Passion </h3>
 <img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" width=400 alt="Github dashboard gif" align="right">
